@@ -14,7 +14,7 @@ function App() {
   const addValue = () => {
     // console.log("clicked", counter);
     // counter=counter+1
-    if (counter===20){
+    if (counter === 20){
       `Counter value cannot go up form 20 ${counter}`
 
     }else{
